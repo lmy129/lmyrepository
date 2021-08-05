@@ -1,2 +1,2 @@
 # lmyrepository
-1
+my
